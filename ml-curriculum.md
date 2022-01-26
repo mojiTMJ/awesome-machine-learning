@@ -1,6 +1,6 @@
 # How would your curriculum for a machine learning beginner look like?
 If I had to put together a study plan for a beginner, I would probably start with an easy-going intro course such as
-
+ 
 - Andrew Ng's [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
 
 Next, I would recommend a good intro book on 'Data Mining' (data mining is essentially about extracting knowledge from data, mainly using machine learning algorithms). I can highly recommend the following book written by one of my former professors:
